@@ -1,0 +1,6 @@
+.hero-section.blue-bg {
+    background: #000;
+}
+.hero-section.blue-bg:before {
+    content: none;
+}

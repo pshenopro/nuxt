@@ -1,0 +1,25 @@
+{
+  "name": "qbid",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.0",
+    "swiper": "^5.4.5",
+    "vue-awesome-swiper": "^4.1.1",
+    "eslint-plugin-vue": "^5.2.3",
+    "flexibility": "^2.0.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "@babel/core": "^7.5.5",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.5.5"
+  }
+}
